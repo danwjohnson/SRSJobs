@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><response version="2">
+
+    <query>java</query>
+    <location>austin, tx</location>
+
+    <dupefilter>true</dupefilter>
+    
+    <highlight>false</highlight>
+    <totalresults>1303</totalresults>
+    
+    <start>1</start>
+    <end>10</end>
+    
+    <radius>25</radius>
+    
+    
+    <pageNumber>0</pageNumber>
+    
+    
+    
+    
+    
+    
+    
+    
+    <results>
+        
+            
+                <result>
+                    <jobtitle>Principal Software Engineer - Java Backend</jobtitle>
+                    <company>Socialware</company>
+                    <city>Austin</city>
+                    <state>TX</state>
+                    <country>US</country>
+                    <formattedLocation>Austin, TX</formattedLocation>
+                    <source>Socialware</source>
+                    <date>Wed, 20 May 2015 09:48:44 GMT</date>
+                    <snippet>Front-end exposure to Java. Deep technical experience (5+ years) and strong affinity for building infrastructure and applications while extending and improving...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=010f0f1fff41205f&amp;qd=uJ4iJdP9QNZzHrO781pabnb1AnRbE4yLgLffASwfhb8RdIPXjia8Il1dvSZwyXqe8dQWa103bEIHj7fpnIMfbEpW3flgl7xt54yMT1GVDs0&amp;indpubnum=4639223378892690&amp;atk=19m339eeg5m9pb0m</url>
+                    <onmousedown>indeed_clk(this, '1922');</onmousedown>
+                    <latitude>30.266483</latitude>
+                    <longitude>-97.74176</longitude>
+                    <jobkey>010f0f1fff41205f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Austin, TX</formattedLocationFull>
+                    <formattedRelativeTime>4 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Staff Software Engineer Job</jobtitle>
+                    <company>Visa</company>
+                    <city>Austin</city>
+                    <state>TX</state>
+                    <country>US</country>
+                    <formattedLocation>Austin, TX</formattedLocation>
+                    <source>Visa</source>
+                    <date>Fri, 22 May 2015 09:08:00 GMT</date>
+                    <snippet>Experience with software development utilizing Java, J2EE, Hibernate, SQL, JDBC, and Struts programming languages....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=0991f8f938db70a6&amp;qd=uJ4iJdP9QNZzHrO781pabnb1AnRbE4yLgLffASwfhb8RdIPXjia8Il1dvSZwyXqe8dQWa103bEIHj7fpnIMfbEpW3flgl7xt54yMT1GVDs0&amp;indpubnum=4639223378892690&amp;atk=19m339eeg5m9pb0m</url>
+                    <onmousedown>indeed_clk(this, '1922');</onmousedown>
+                    <latitude>30.266483</latitude>
+                    <longitude>-97.74176</longitude>
+                    <jobkey>0991f8f938db70a6</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Austin, TX</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Software Development Leader - Internet of Things (IoT)</jobtitle>
+                    <company>IBM</company>
+                    <city>Austin</city>
+                    <state>TX</state>
+                    <country>US</country>
+                    <formattedLocation>Austin, TX</formattedLocation>
+                    <source>IBM</source>
+                    <date>Thu, 21 May 2015 21:22:04 GMT</date>
+                    <snippet>At least 2 years experience in Java. Also, the candidate will have the proven ability to work with Java. Additionally, the candidate will possess demonstrated...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=e517fbdf84d82866&amp;qd=uJ4iJdP9QNZzHrO781pabnb1AnRbE4yLgLffASwfhb8RdIPXjia8Il1dvSZwyXqe8dQWa103bEIHj7fpnIMfbEpW3flgl7xt54yMT1GVDs0&amp;indpubnum=4639223378892690&amp;atk=19m339eeg5m9pb0m</url>
+                    <onmousedown>indeed_clk(this, '1922');</onmousedown>
+                    <latitude>30.266483</latitude>
+                    <longitude>-97.74176</longitude>
+                    <jobkey>e517fbdf84d82866</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Austin, TX</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>J2EE Developer</jobtitle>
+                    <company>Austin Energy</company>
+                    <city>Austin</city>
+                    <state>TX</state>
+                    <country>US</country>
+                    <formattedLocation>Austin, TX</formattedLocation>
+                    <source>Savvy Technology Solutions LLC</source>
+                    <date>Tue, 19 May 2015 21:40:19 GMT</date>
+                    <snippet>Java EE developer with Struts 2.0 experience. PL SQL, SVN, Eclipse, Java EE web services, Struts 2.0. Sphere products including Integration Developer 6.1-7.0,...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=76668d95d18dae7f&amp;qd=uJ4iJdP9QNZzHrO781pabnb1AnRbE4yLgLffASwfhb8RdIPXjia8Il1dvSZwyXqe8dQWa103bEIHj7fpnIMfbEpW3flgl7xt54yMT1GVDs0&amp;indpubnum=4639223378892690&amp;atk=19m339eeg5m9pb0m</url>
+                    <onmousedown>indeed_clk(this, '1922');</onmousedown>
+                    <latitude>30.241758</latitude>
+                    <longitude>-97.75824</longitude>
+                    <jobkey>76668d95d18dae7f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Austin, TX 78704</formattedLocationFull>
+                    <formattedRelativeTime>4 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Java Developer</jobtitle>
+                    <company>CitronIt</company>
+                    <city>Austin</city>
+                    <state>TX</state>
+                    <country>US</country>
+                    <formattedLocation>Austin, TX</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Fri, 22 May 2015 20:52:54 GMT</date>
+                    <snippet>Java coding,JDK 1.6,JSON:. 5+ years of Java coding experience for technologies in a fast-paced environment. 6+ month contract....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=d7725c5f339dff96&amp;qd=uJ4iJdP9QNZzHrO781pabnb1AnRbE4yLgLffASwfhb8RdIPXjia8Il1dvSZwyXqe8dQWa103bEIHj7fpnIMfbEpW3flgl7xt54yMT1GVDs0&amp;indpubnum=4639223378892690&amp;atk=19m339eeg5m9pb0m</url>
+                    <onmousedown>indeed_clk(this, '1922');</onmousedown>
+                    <latitude>30.266483</latitude>
+                    <longitude>-97.74176</longitude>
+                    <jobkey>d7725c5f339dff96</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Austin, TX</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Java Desktop Developer -- Remote / Nationwide</jobtitle>
+                    <company>TeleTech</company>
+                    <city>Austin</city>
+                    <state>TX</state>
+                    <country>US</country>
+                    <formattedLocation>Austin, TX</formattedLocation>
+                    <source>TeleTech</source>
+                    <date>Fri, 22 May 2015 12:36:00 GMT</date>
+                    <snippet>Experience with Java. Server side programming (PHP, Java or .Net). Experience with Java, J2EE, AJAX, Jquery, XML, JSON. At e....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=9b1875c7afe50f1e&amp;qd=uJ4iJdP9QNZzHrO781pabnb1AnRbE4yLgLffASwfhb8RdIPXjia8Il1dvSZwyXqe8dQWa103bEIHj7fpnIMfbEpW3flgl7xt54yMT1GVDs0&amp;indpubnum=4639223378892690&amp;atk=19m339eeg5m9pb0m</url>
+                    <onmousedown>indeed_clk(this, '1922');</onmousedown>
+                    <latitude>30.266483</latitude>
+                    <longitude>-97.74176</longitude>
+                    <jobkey>9b1875c7afe50f1e</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Austin, TX</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Sr.Java Developer- Locals to TX</jobtitle>
+                    <company>Tad IT Solutions,INc</company>
+                    <city>Austin</city>
+                    <state>TX</state>
+                    <country>US</country>
+                    <formattedLocation>Austin, TX</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Fri, 22 May 2015 14:58:05 GMT</date>
+                    <snippet>Minimum Qualifications • BS degree in Computer Science or related field • 2­5 years of software development experience in Java • Experience with object­oriented...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=11e7459efcf0f42f&amp;qd=uJ4iJdP9QNZzHrO781pabnb1AnRbE4yLgLffASwfhb8RdIPXjia8Il1dvSZwyXqe8dQWa103bEIHj7fpnIMfbEpW3flgl7xt54yMT1GVDs0&amp;indpubnum=4639223378892690&amp;atk=19m339eeg5m9pb0m</url>
+                    <onmousedown>indeed_clk(this, '1922');</onmousedown>
+                    <latitude>30.266483</latitude>
+                    <longitude>-97.74176</longitude>
+                    <jobkey>11e7459efcf0f42f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Austin, TX</formattedLocationFull>
+                    <formattedRelativeTime>1 day ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Java Web Application Developer(WebLogic to JBoss)</jobtitle>
+                    <company>MeritOne Engineering and IT Solutions Inc (MeritOne)</company>
+                    <city>Austin</city>
+                    <state>TX</state>
+                    <country>US</country>
+                    <formattedLocation>Austin, TX</formattedLocation>
+                    <source>Indeed</source>
+                    <date>Tue, 19 May 2015 23:53:06 GMT</date>
+                    <snippet>• 5 years - Java/J2EE • 5 years - JSP • 5 years - WebLogic • 5 years - JBoss • 5 years - Testing tools Desirable Requirements : • 3 years - Eclipse • 3 years </snippet>
+                    <url>http://www.indeed.com/viewjob?jk=9118db1a5ef7f11c&amp;qd=uJ4iJdP9QNZzHrO781pabnb1AnRbE4yLgLffASwfhb8RdIPXjia8Il1dvSZwyXqe8dQWa103bEIHj7fpnIMfbEpW3flgl7xt54yMT1GVDs0&amp;indpubnum=4639223378892690&amp;atk=19m339eeg5m9pb0m</url>
+                    <onmousedown>indeed_clk(this, '1922');</onmousedown>
+                    <latitude>30.266483</latitude>
+                    <longitude>-97.74176</longitude>
+                    <jobkey>9118db1a5ef7f11c</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>true</indeedApply>
+                    <formattedLocationFull>Austin, TX</formattedLocationFull>
+                    <formattedRelativeTime>4 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Software Development Engineer</jobtitle>
+                    <company>Amazon Corporate LLC</company>
+                    <city>Austin</city>
+                    <state>TX</state>
+                    <country>US</country>
+                    <formattedLocation>Austin, TX</formattedLocation>
+                    <source>Amazon.com</source>
+                    <date>Thu, 14 May 2015 19:08:00 GMT</date>
+                    <snippet>A minimum of 3 years industry coding experience in Java or C++. You can conceive and design complex software systems and build them using Java or C++....</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=3a10eaf41fbf1e5f&amp;qd=uJ4iJdP9QNZzHrO781pabnb1AnRbE4yLgLffASwfhb8RdIPXjia8Il1dvSZwyXqe8dQWa103bEIHj7fpnIMfbEpW3flgl7xt54yMT1GVDs0&amp;indpubnum=4639223378892690&amp;atk=19m339eeg5m9pb0m</url>
+                    <onmousedown>indeed_clk(this, '1922');</onmousedown>
+                    <latitude>30.266483</latitude>
+                    <longitude>-97.74176</longitude>
+                    <jobkey>3a10eaf41fbf1e5f</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Austin, TX</formattedLocationFull>
+                    <formattedRelativeTime>9 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+            
+                <result>
+                    <jobtitle>Lead Software Developer</jobtitle>
+                    <company>IBM</company>
+                    <city>Austin</city>
+                    <state>TX</state>
+                    <country>US</country>
+                    <formattedLocation>Austin, TX</formattedLocation>
+                    <source>IBM</source>
+                    <date>Thu, 21 May 2015 21:21:00 GMT</date>
+                    <snippet>At least 2 years experience in Java, Javascript, HTML5, CSS3. The Lead Software Developer will define the product/solution architecture and describe how...</snippet>
+                    <url>http://www.indeed.com/viewjob?jk=ab8ecf476375b300&amp;qd=uJ4iJdP9QNZzHrO781pabnb1AnRbE4yLgLffASwfhb8RdIPXjia8Il1dvSZwyXqe8dQWa103bEIHj7fpnIMfbEpW3flgl7xt54yMT1GVDs0&amp;indpubnum=4639223378892690&amp;atk=19m339eeg5m9pb0m</url>
+                    <onmousedown>indeed_clk(this, '1922');</onmousedown>
+                    <latitude>30.266483</latitude>
+                    <longitude>-97.74176</longitude>
+                    <jobkey>ab8ecf476375b300</jobkey>
+                    <sponsored>false</sponsored>
+                    <expired>false</expired>
+                    <indeedApply>false</indeedApply>
+                    <formattedLocationFull>Austin, TX</formattedLocationFull>
+                    <formattedRelativeTime>2 days ago</formattedRelativeTime>
+                </result>
+
+
+        
+    </results>
+</response>
